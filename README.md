@@ -1,7 +1,7 @@
 # 자기소개서 🥰
 
 
-![이미지](https://picsum.photos/100/150)
+![이미지](https://picsum.photos/id/1/100/150)
 
 ### 김유리입니다
 
